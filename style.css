@@ -9,3 +9,8 @@ h1, h2, h3, h4, h5 {
     width: 350px;
     text-align: center;
   }
+  .listFlex {display: flex; justify-content: center;}
+  
+  img {
+    width: 100%;
+  }
